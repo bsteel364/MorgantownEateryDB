@@ -1,0 +1,72 @@
+﻿@model MorgantownRestaurantsV2.ViewModels.SearchAreaViewModel
+@using MorgantownRestaurantsV2.Models.RestaurantModel
+@{
+    ViewData["Title"] = "SearchRestaurantsByArea";
+}
+
+<h1>Search Restaurants By Area</h1>
+<form asp-action="SearchRestaurantsByArea" method="post">
+
+    <div class="form-group">
+        <label>Choose Area</label>
+        <select asp-for="AreaID" class="form-control" asp-items="ViewBag.AreaList">
+            <option value=null>None</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label>Choose Delivery Service</label>
+        <select asp-for="DSID" class="form-control" asp-items="ViewBag.DSList">
+            <option value=null>None</option>
+        </select>
+    </div>
+
+    <div>
+        <br /><button type="submit" name="Button1" text='<%# Bind("Choose Type")%>'>Search</button>
+    </div>
+
+</form>
+@if (Model.RestList != null)
+{
+    @if (Model.RestList.Count == 0)
+    {
+        <p>No results.</p>
+    }
+    else
+    {
+
+
+        @*@elseif (Model.GrowList != null)
+            {*@
+        <label> This is the search result.</label>
+
+
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>Restaurant Name</th>
+                    <th>Address</th>
+                    <th>Price Range</th>
+                    <th>Delivery Service</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Restaurant eachRest in Model.RestList)
+                {
+                    <tr>
+                        <td> @eachRest.RestaurantName </td>
+                        <td> @eachRest.RestaurantAddress </td>
+                        <td> @eachRest.priceRange.PriceRangeRating </td>
+                        <td> @eachRest.deliveryService.DeliveryServiceName</td>
+                        <td><a class="btn btn-primary" asp-action="ViewDishes" asp-route-RestaurantID="@eachRest.RestaurantID" asp-controller="Restaurant_Dish">View Dishes</a></td>
+                    </tr>
+                }
+
+
+            </tbody>
+        </table>
+    }<!--End Else -->
+
+    <a class="btn btn-primary" asp-action="AddRestaurant" asp-controller="Restaurant">Add New Restaurant</a>
+
+}<!--End if-->

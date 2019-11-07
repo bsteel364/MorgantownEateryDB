@@ -1,0 +1,59 @@
+﻿
+@model MorgantownRestaurantsV2.ViewModels.ViewDishViewModel
+@using MorgantownRestaurantsV2.Models.Restaurant_DishModel
+@{
+    ViewData["Title"] = "ViewDishes";
+}
+
+<h1>View Dishes</h1>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>Dish Name</th>
+            <th>Description</th>
+            <th>Type</th>
+            @*<th>Delivery Service</th>
+            <th>Price Range Rating</th>
+            <th>Restaurant ID</th>
+            <th>Dish ID</th>
+            <th></th>
+            <th></th>*@
+
+        </tr>
+    </thead>
+
+    <tbody>
+
+
+        @foreach (Restaurant_Dish eachRD in Model.dishList)
+        {
+            <tr>
+                <td>@eachRD.dish.DishName</td>
+                <td>@eachRD.dish.DishDescription</td>
+                @*<td>@eachRD.Rest.foodType</td>
+                <td>@eachRD.Rest.deliveryService.DeliveryServiceName</td>
+                <td>@eachRD.Rest.priceRange.PriceRangeRating</td>
+                <td>@eachRD.RestaurantID</td>
+                <td>@eachRD.DishID</td>*@
+                
+                
+                    <td><a class="btn btn-primary" asp-action="EditDish" asp-route-Restaurant_DishID="@eachRD.Restaurant_DishID" asp-controller="Dish">Edit Dish</a></td>
+                    <td><a class="btn btn-danger" asp-action="DeleteDish" asp-route-SPID="@eachRD.Restaurant_DishID" asp-controller="Dish">Delete Dish</a></td>
+
+            </tr>
+
+
+        }
+
+
+    </tbody>
+
+
+</table>
+
+
+    <div>
+        <a class="btn btn-primary" asp-action="AddDish" asp-controller="Dish">Add New Dish</a>
+    </div>
+
+
