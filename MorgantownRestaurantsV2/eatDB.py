@@ -1,8 +1,8 @@
 #Author - Brandon Steel
 
-import nltk
-nltk.download()
-nltk.download('punkt')
+#import nltk
+#nltk.download()
+#nltk.download('punkt')
 
 from nltk import sent_tokenize
 import re
@@ -22,4 +22,4 @@ while(i < datasize-1):
     if(input in rows[i]):
         outfile.write(rows[i])
         outfile.write('\n')
-    i = i + 1 
+    i = i + 1
