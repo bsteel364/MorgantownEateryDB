@@ -9,6 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using MorgantownRestaurantsV2.Data;
+using IronPython.Hosting;
 
 namespace MorgantownRestaurantsV2
 {
@@ -16,7 +17,11 @@ namespace MorgantownRestaurantsV2
     {
         public static void Main(string[] args)
         {
+            //Console.WriteLine("Please enter a file location from data");
+            //string input = Console.ReadLine();
+
             var host = CreateWebHostBuilder(args).Build();
+            //var python = Python.CreateEngine();
 
             using (var scope = host.Services.CreateScope())
             {
@@ -25,7 +30,7 @@ namespace MorgantownRestaurantsV2
                 try
                 {
                     //var context = services.GetRequiredService<ApplicationDbContext>();
-
+                    //python.ExecuteFile("File Path for .py file execution");
                     DbInitializer.Initialize(services).Wait();
                 }
                 catch (Exception ex)
@@ -34,7 +39,7 @@ namespace MorgantownRestaurantsV2
                     logger.LogError(ex, "An error occured creating the DB.");
                 }
             }
-
+            
             host.Run();
         }
 

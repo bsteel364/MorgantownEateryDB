@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using IronPython.Hosting;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.DependencyInjection;
 using MorgantownRestaurantsV2.Models;
 using MorgantownRestaurantsV2.Models.DeliveryServiceModel;
@@ -15,8 +16,11 @@ namespace MorgantownRestaurantsV2.Data
 {
     public class DbInitializer
     {
+        
+
         public static async Task Initialize(IServiceProvider services)
         {
+            
             ApplicationDbContext database = services.GetRequiredService<ApplicationDbContext>();
             UserManager<ApplicationUser> userManager
                 = services.GetRequiredService<UserManager<ApplicationUser>>();
@@ -24,7 +28,7 @@ namespace MorgantownRestaurantsV2.Data
                 = services.GetRequiredService<RoleManager<IdentityRole>>();
 
             string roleOfficial = "Official";
-
+            
             if (!database.Roles.Any())
             {
                 IdentityRole role = new IdentityRole(roleOfficial);
