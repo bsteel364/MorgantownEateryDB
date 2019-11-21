@@ -1,0 +1,126 @@
+Auntie Anne's, Pretzels, 9323 Mall Road, 304-983-6175, $$, No Services.
+Great American Cookies, Desserts, 9505 Mall Road, 304-983-2638, $, No Services.
+Wong's Wok, Chinese, 9409 Mall Road, 304-983-6815, $$$, No Services.
+Chick-fil-A, Fast Food, 9415 Mall Road, 304-983-6780, $$, Grubhub.
+Bob Evans, Comfort Food, 10 Lawless Road, 304 296 6356, $$$, Grubhub.
+Subway, Sandwiches, 9405 Mall Road, 304-983-2387, $$, Grubhub.
+Taco Bell, Fast Food, 7 Commerce Drive, 304-291,6071, $, Grubhub.
+Blaze Pizza, Pizza, 525 Granville Square, 304-607-2122, $$$, Blaze Pizza.
+Wendy's, Fast Food, 101 Sesame Drive, 304-599-5895, $$, Grubhub.
+Panda Express, Chinese, 100 Sesame Drive, 304-599-6939, $$ Grubhub.
+Fusion Japanese Steakhouse, Japanese, 201 Fusion Street, 304-554-2328, $$$, Grubhub.
+Los Mariachis, Mexican, 9105 University Town Center Drive, 304-599-6187,$$$, Doordash.
+Buffalo Wild Wings, Bar, 8735 University Town Center Drive, 304-554-2150, $$$, Grubhub.
+Pizza Al's, Pizza,  192 Jim Street, 304-599-9555, $$$, Pizza Al's.
+Sweet Frog, Dessert, 965 Target Way, 304-288-2454, $$, No Services.
+Cicis Pizza, Pizza, 4081 University Town Center Drive, 304-599-8399, $$, No Services.
+Cheddar's, Comfort Food, 2111 University Town Center Drive, 304-598-3233, $$$, No Services.
+Cracker Barrel, Comfort Food, 345 Lewis Drive, 305-598-5651, $$, Doordash.
+Red Lobster, Seafood, 1512  University Town Center Drive, 304-598-2201, $$$, Grubhub.
+Olive Garden, Italian, 1340  University Town Center Drive, 304-599-8611, $$$, No Services.
+Longhorn Steakhouse, Grill, 1427  University Town Center Drive, 304-599-2100, $$$,  No Services.
+Chili's, Tex-Mex, 1001  University Town Center Drive, 304-599-2823, $$$, Doordash.
+Chipotle, Mexican, 17 Chaplin Road, 304-599-4519, $$$, Doordash.
+McDonald's, Fast Food, 11 Chaplin Road, 304-598-3812, $, Grubhub.
+Golden Corral, Comfort Food, 3515 Monongahela Blvd, 304-599-3825, $$$, No Services.
+Texas Roadhouse, Grill, 3505 Monongahela Blvd, 304-598-0109, $$$, No Services.
+Star City Hotdogs, Hotdogs, 3417 University Avenue, 304-599-5199, $$, No Services.
+Crockett's Lodge, Grill, 3395 University Avenue, 304-598-2337, $$$, No Services.
+Terra Cafe, Sandwiches, 425 Industrial Avenue, 304-554-2233, $$$, No Services.
+Black Bear Burritos, Mexican, 3119 University Avenue, 304-296-8696, $$$, No Services.
+Mario's Fishbowl, Seafood, 3117 University Avenue, 304-599-4309, $$$, No Services.
+Tudor's Biscuit World, Comfort Food, 3071A University Avenue, 304-241-1702, $$, Grubhub.
+Panera Bread, Sandwiches, 357 Patterson Drive, 304-598-3901, $$, Grubhub.
+Taco Bell, Fast Food, 347 Patterson Drive, 304-599-1425, $, Grubhub.
+Wendy's, Fast Food, 351 Patterson Drive, 304-598-3793, $$, Grubhub.
+Chik-fil-A, Fast Food, 334 Patterson Drive, 304-599-1840, $$, No Services.
+Arby's, Fast Food, 331 Patterson Drive, 304-598-2729, $$, No Services.
+Burger King, Fast Food, 340 Patterson Drive, 304-244-2722, $, No Services.
+Qdoba, Mexican, 386 Patterson Drive, 304-598-5555, $$$, Doordash.
+Eat'n Park, Comfort Food, 353 Patterson Drive, 304-598-0020, $$, No Services.
+Pizza Hut, Pizza, 374 Patterson Drive, 304-598-3700, $$$, Pizza Hut.
+Boston Beanery, Tavern, 383 Patterson Drive, 304-599-1870, $$$, Dubveatz.
+Applebee's, Comfort Food,  1065 Van Voorhis Road, 304-599-3733, $$$, Grubhub.
+Starbucks, Cafe, 1109 Van Voorhis Road, 304-599-2740, $$, Doordash.
+Peking House, Chinese, 1125 Van Voorhis Road, 304-598-3333, $$$, Grubhub.
+Los Mariachis, Mexican, 1137 Van Voorhis Road, 304-598-3715, $$$, Doordash.
+Domino's, Pizza, 1159 Van Voorhis Road, 304-241-5545, $$$, Domino's.
+Dunkin Donuts, Breakfast, 725 Chestnut Ridge Road, 304-241-1386, $, No Services.
+Wings Ole, Mexican,  725 Chestnut Ridge Road, 304-598-3010, $$, No Services.
+Stefano's, Italian, 735 Chestnut Ridge Road, 304-581-6930, $$$, No Services.
+Kegler's, Bar, 735 Chestnut Ridge Road, 304-598-9698, $$, No Services.
+Tutto Gelato Cafe, Cafe, 755 Chestnut Ridge Road, 304-291-2444, $$$, Grubhub.
+Saigon Pho Kitchen, Vietnamese, 3109 University Avenue, 304-241-1814, $$$, Grubhub.
+Fox's Pizza Den, Pizza, 3109 University Avenue, 304-598-3697, $$$, Fox's Pizza Den.
+Lefty's Place, Pizza, 503 Burroughs Street, 304-241-5501, $$$, No Service.
+Green Tea Asian Fusion, Asian, 511 Burroughs Place, 304-381-2140, $$$, Doordash.
+Wine Bar at Vintner Valley, Bar, 510 Burroughs Street, 304-241-1687, $$$, No Services.
+Pizza Al's, Pizza, 2952 University Avenue, 304-599-4040, $$$, Pizza Al's.
+McDonald's, Fast Food, 2932 University Avenue, 304-599-4162, $, Grubhub.
+Ogawa, Japanese, 2920 University Avenue, 304-598-8338, $$$, No Services.
+Mountaineers Taphouse, Bar, 453 Oakland Street, 304-241-1727, $$$, Grubhub.
+Ta-Khrai Thai Cafe, Thai, 2862 University Avenue, 304-282-3707, $$$, No Services.
+Smoothie King, Juice Shop, 475 Oakland Street, 304-212-5561, $, No Services.
+IHOP, Breakfast, 475 Oakland Street, 304-292-4301, $$, Grubhub.
+Starbucks, Cafe, 1 Medical Center Drive, 304-598-4000, $$, Doordash.
+Atria's, Bar, 1188 Pineview Drive, 304-381-9616, $$$, Grubhub.
+Subway, Sandwiches, 918 Chestnut Ridge, 304-598-3774, $$, Grubhub.
+Varsity Club, Bar, 910 Willowdale Road, 304-599-5990, $$$, No Services.
+Sandwich University, Sandwiches, 708 Beechurst Avenue, 304-381-4552, $$, Grubhub.
+New Foo Sheen, Chinese, 450 Beechurst Avenue, 304-381-4679, $$$, Grubhub.
+The Greeks, Greek, 331 Beechurst Avenue, 304-284-0055, $$$, Grubhub.
+Mutt's, Bar, 263 Beechurst Avenue, 304-292-3579, $$$, No Services.
+Papa John's, Pizza, 229 Beechurst Avenue, 304-292-7200, $$$, Papa John's.
+Bombay Indian Grill, Indian, 2011 University Avenue, 304-381-4858, $$$, Grubhub.
+Sunnyside Bullpen, Bar, 2041 University Avenue, 304-212-5290, $$$, No Services.
+Papa Allen's Pizza, Pizza, 2161 University Avenue, 304-241-1022, $$$, Papa Allen's Pizza.
+Little Caesars, Pizza, 2942 University Avenue, 304-599-4939, $, No Services.
+Starbucks, Breakfast, 51 Donahue Drive, 681-209-4782, $$, Grubhub.
+Oryza, Asian, 51 Donahue Drive, 304-292-9866, $$$, Grubhub.
+Penn Station, Sandwiches, 51 Donahue Drive, 304-300-7366, $$, No Services.
+Papa John's 51 Donahue Drive, 304-241-8330, $$$, Papa John's.
+Buffalo Wild Wings, Bar, 1099 Suncrest Towne Centre Drive, 304-598-3430, $$$, Grubhub.
+No 1 Super China Buffet, Chinese, 1086 Suncrest Towne Centre, 304-599-8889, $$, No Services.
+Peace Love and Little Donuts, Breakfast, 1078 Suncrest Towne Centre, 304-212-5765, $$, Doordash.
+Five Guys, Fast Food, 1000 Suncrest Towne Centre, 304-212-5723, $$$, Doordash.
+Jimmy Johns, Sandwiches, 1018 Suncrest Towne Centre, 304-241-5555, $$, Jimmy John's.
+Cairo 2 Go, Egyptian, 1006 Suncrest Towne Centre, 304-322-4505, $$$, Grubhub.
+Pies & Pints, Pizza, 1002 Suncrest Towne Centre, 304-777-4749, $$$, Doordash.
+Roosters, Bar, 550 Suncrest Towne Centre, 304-241-1002, $$, Grubhub.
+Crab Shack Caribba, Seafood, 420 Suncrest Towne Centre, 304-599-4545, $$$, Grubhub.
+Primanti Bros, Sandwiches, 402 Suncrest Towne Centre, 304-241-5420, $$, Grubhub.
+Tim Hortons, Breakfast, 1298 Suncrest Towne Centre, 304-381-2814, $, No Services.
+Dairy Queen, Fast Food, 421 Suncrest Towne Centre, 304-212-5986, $$, No Services.
+Saladworks, Salad, 406 Suncrest Towne Centre, 304-291-9494, $$, Grubhub.
+Bacon, Bourbon & Beer, Comfort Food, 368 Suncrest Towne Centre, 304-381-4847, $$$, No Services.
+Bartini Prime, Bar, 350 Suncrest Towne Centre, 304-599-1001, $$$, No Services.
+Sonic, Fast Food, 361 Suncrest Towne Centre, 304-598-0024, $$, No Services.
+McDonald's, Fast Food, 351 Suncrest Towne Centre, 304-599-0382, $, Grubhub.
+Mario's Fishbowl, Bar, 704 Richwood Avenue, 304-292-2511, $$$, No Services.
+Pizza Hut, Pizza, 345 Brockway Avenue, 304-292-7100, $$$, Pizza Hut.
+Panera Bread, Sandwiches, 207 Willey Street, 304-291-6240, $$, Grubhub.
+The Grind, Cafe, 168 Willey Street, 304-296-5297, $$, No Services.
+Casa D'Amici, Italian, 485 High Street, 304-292-4400, $$, Grubhub.
+High Street Canteen, Bar, 514 High Street, 304-292-4068, $$$, No Services.
+Mad Fresh, Diner, 218 Prospect Street, 304-381-2758, $$$, No Services.
+Benny Velino's, Pizza, 458 High Street, 304-943-7363, $$, Grubhub.
+Clutch Wing Shop, Comfort Food, 444 High Street, 304-212-5403, $$$, Grubhub.
+Lotsa, Pizza, 419 High Street, 304-581-8000, $$$, Grubhub.
+Tailpipes, Comfort Food, 417 High Street, 304-225-2535, $$$, Grubhub.
+D.P Dough, Pizza, 408 High Street, 304-292-2444, $$$, D.P Dough.
+Subway, Sandwiches, 400 High Street, 304-291-3300, $$, Grubhub.
+Jimmy John's, Sandwiches, 405 High Street, 304-298-9060, $, Jimmy John's.
+Yama, Japenese, 387 High Street, 304-291-2456, $$, No Services.
+Pita Pit, Sandwiches, 387 High Street, 304-284-0027, $$, Grubhub.
+Gibbie's Pub, Bar, 368 High Street, 304-296-4427, $$$, No Services.
+Coldstone Creamery, Dessert, 356 High Street, 304-292-2653, $$, Grubhub.
+Joe Mama's, Bar, 345 High Street, 304-296-0004, $$$, No Services.
+Salam, Middle Eastern, 350 High Street, 304-322-4178, $$$, Grubhub.
+The Bank, Bar, 344 High Street, 304-381-4291, $$$, No Services.
+Jasmine Grill, Middle Eastern, 330 High Street, 304-291-7878, $$$, No Services.
+Dirty Bird, Comfort Food, 301 High Street, 304-284-9599, $$$, No Services.
+Blue Moose Cafe, Cafe, 248 Walnut Street, 304-292-8999, $$, No Services.
+Great Wall, Chinese, 162 High Street, 304-291-3417, $$$, Grubhub.
+Iron Horse Tavern, Bar, 140 High Street, 304-196-6230, $$$, No Services.
+Black Bear Burritos, Mexican, 132 Pleasant Street, 304-296-8696, $$$, No Services.
+Cheese Louise, Comfort Food, 994 Willey Street, 304-322-4242, $$, Grubhub.
