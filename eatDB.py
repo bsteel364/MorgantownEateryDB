@@ -46,7 +46,13 @@ def show_entry_fields():
 
         if(valid == 1):
             returned_rows.append(rows[i])
-            outfile.write(rows[i])
+            print(re.split("[,]", rows[i]))
+            name = re.split("[,]", rows[i])[0]
+            addr = re.split("[,]", rows[i])[2]
+            addr = addr.lstrip()
+            outfile.write(name)
+            outfile.write('\n')
+            outfile.write(addr)
             outfile.write('\n')
         i = i + 1
     e1.delete(0, END)
