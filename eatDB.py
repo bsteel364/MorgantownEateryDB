@@ -3,17 +3,21 @@
 #import nltk
 #nltk.download()
 #nltk.download('punkt')
+import string
 import tkinter as tk
 from tkinter import *
+
+import nltk
 from nltk import sent_tokenize
 from nltk import word_tokenize
+from nltk.tokenize import RegexpTokenizer
+tokenizer = RegexpTokenizer(r'\w+')
 import re
 
 #Create a list of words from the input file
 file = open("data.txt", "r")
 datawords = (file.read())
 rows = sent_tokenize(datawords)
-
 
 input = ""
 
@@ -28,11 +32,17 @@ def show_entry_fields():
     returned_rows = []
     while (i < datasize - 1):
         valid = 1
-        for k in word_tokenize(input.lower()):
+        count = 0
+        for k in re.split("[, ]", input.lower()):
+
             if not(k.lower() in rows[i].lower()):
                 if (" " + k.lower() + " " in datawords.lower()):
                     valid = 0
-                    print(k)
+
+            else:
+                count = 1
+        if(count == 0):
+            valid = 0
 
         if(valid == 1):
             returned_rows.append(rows[i])
