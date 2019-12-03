@@ -6,13 +6,14 @@
 import tkinter as tk
 from tkinter import *
 from nltk import sent_tokenize
+from nltk import word_tokenize
 import re
 
 #Create a list of words from the input file
 file = open("data.txt", "r")
+datawords = (file.read())
+rows = sent_tokenize(datawords)
 
-
-rows = sent_tokenize(file.read())
 
 input = ""
 
@@ -26,7 +27,14 @@ def show_entry_fields():
     datasize = len(rows)
     returned_rows = []
     while (i < datasize - 1):
-        if (input.lower() in rows[i].lower()):
+        valid = 1
+        for k in word_tokenize(input.lower()):
+            if not(k.lower() in rows[i].lower()):
+                if (" " + k.lower() + " " in datawords.lower()):
+                    valid = 0
+                    print(k)
+
+        if(valid == 1):
             returned_rows.append(rows[i])
             outfile.write(rows[i])
             outfile.write('\n')
@@ -49,6 +57,7 @@ def show_entry_fields():
 master = tk.Tk()
 tk.Label(master,text="Search Term").grid(row=0)
 e1 = tk.Entry(master)
+
 
 e1.grid(row=0, column=1)
 tk.Button(master,
